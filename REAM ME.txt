@@ -1,0 +1,16 @@
+   -----How To Import Project-----
+To import the project into Eclipse go to: 
+   File -> Open Projects from File System -> Directory 
+Find the folder that contains the project(AdvancedText2SpeechApp) and select it.
+--------------------------------------------------------------------------------------
+
+
+   -----How To Import Libraries----- 
+In order to run the program you have to add in the build path of the project, 
+in the Classpath, all the libraries of the:
+    - freetts-1.2
+    - poi-5.0.0
+To do that, right click on the project inside Eclipse and go to:
+Build  Path -> Configure Build Path -> Libraries -> Classpath -> Add External Jars..
+--------------------------------------------------------------------------------------
+
