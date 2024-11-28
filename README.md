@@ -4,7 +4,7 @@ A program which:
 
   -Transforms your excel or your word file to speech.
 
-  -Tupports encoding and decoding of ROT13 and ATBASH.
+  -Supports encoding and decoding of ROT13 and ATBASH.
 
   -Makes you able to modify volume, pitch and rate of the robots voice.
 
